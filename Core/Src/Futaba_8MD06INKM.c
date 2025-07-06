@@ -3,6 +3,7 @@
  *
  *  Created on: Feb 16, 2023
  *      Author: Michael
+ *		E-Mail: michael.adam4@proton.me
  *
  *      IMPORTANT!!!
  *      SPI Settings:

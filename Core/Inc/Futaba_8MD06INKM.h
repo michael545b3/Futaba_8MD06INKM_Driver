@@ -3,6 +3,7 @@
  *
  *  Created on: Feb 16, 2023
  *      Author: Michael
+ *		E-Mail: michael.adam4@proton.me
  */
 
 #ifndef INC_FUTABA_8MD06INKM_H_

@@ -1,8 +1,12 @@
 /* USER CODE BEGIN Header */
 /**
  ******************************************************************************
- * @file           : main.c
- * @brief          : Main program body
+ * @file           	: main.c
+ * @brief          	: Main program body
+ * 
+ * Created on		: Feb 16, 2023
+ * Author			: Michael
+ * E-Mail			: michael.adam4@proton.me
  ******************************************************************************
  * @attention
  *
